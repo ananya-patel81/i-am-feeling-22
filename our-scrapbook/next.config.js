@@ -3,7 +3,7 @@
 // If you're deploying to https://<username>.github.io/<repo-name>/ (a project page),
 // set the repo name below. If you're deploying to a custom domain or a
 // <username>.github.io "user/org" page (repo literally named that), leave it as "".
-const repoName = "our-scrapbook"; // <-- change this to your GitHub repo's name
+const repoName = "i-am-feeling-22"; // <-- change this to your GitHub repo's name
 
 const isGithubPages = process.env.DEPLOY_TARGET === "github-pages";
 
